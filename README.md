@@ -1,2 +1,2 @@
-# DataAnalytics
-This repo is for exploring DA concepts against real world problems and learn from it.
+# Python Hands On Projects
+This repository contains my curious ideas implementation in python.
